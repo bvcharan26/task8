@@ -19,9 +19,4 @@ A responsive blog page created using **Bootstrap 5 CDN** featuring a navbar, blo
 - 🎨 CSS (Bootstrap utilities and custom styles)  
 - 📱 Font Awesome for social icons  
 
-## 🚀 How to Run
 
-1. Clone this repository:  
-   ```bash
-
-   git clone https://github.com/indian3lion6/Intern_practice/new/main/task8.git
